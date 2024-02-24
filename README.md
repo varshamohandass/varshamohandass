@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi👋 I'm Varsha
 
+- 🔭 I’m currently working on Python 
+- 🌱 I’m currently learning [Fast API](https://fastapi.tiangolo.com/)
+- 👯 I’m looking to collaborate on Python Development
+- 💬 Ask me about Python Development
+- 📫 How to reach me: varshamanasa9903gamil.com
+
+  <!--Varsha's Github stats --!>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshamohandass)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **varshamohandass/varshamohandass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
